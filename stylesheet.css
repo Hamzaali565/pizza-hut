@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav{
+background: #0082e6;
+height: 80px;
+width: 1400px;
+padding: 30px;
+}
+nav ul{
+float: left;
+margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin: o 5px;
+}
+nav ul li a{
+    color: white;
+font-size: 17px;
+padding: 7px 13px;
+border: radius 3px ;
+text-transform: uppercase;
+}
+a:hover{
+    background: #1b9bff;
+    
+}
+.logo{
+    max-width: 20%;
+    max-height: 20%;
+}
+.image{
+    float: right;
+    padding: 5px;
+    margin: 5px;
+}
+.radio
+{
+    text-align: center;
+}
+.order{
+    text-align: center;
+}
+.image-1{
+    text-align: center;
+    padding: 20pxma;
+}
+.deal{
+text-align: center;
+;
+}
+ul{
+display: inline-block;   
+}
